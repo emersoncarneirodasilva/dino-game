@@ -1,2 +1,2 @@
 # dino-game
- Desafio de projeto da DIO (jogo criado utilizando HTML, CSS e JS)
+ Desafio de projeto de jogos da DIO (jogo criado utilizando HTML, CSS e JavaScript)
